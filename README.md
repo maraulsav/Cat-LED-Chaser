@@ -1,5 +1,6 @@
 # Cat-LED-Chaser
-Hii! This is a cat shaped LED chaser. 
+Hii! This is a cat shaped LED chaser. I wanted to make it as a keychain to be gifted to someone special for me during my highschool graduation later..
+
 
 ## 3D View
 Front
@@ -40,4 +41,7 @@ and my PCB:
 <img width="346" height="366" alt="Screenshot 2026-03-18 at 15 14 13" src="https://github.com/user-attachments/assets/57a5b4cb-3fa6-4485-b0f8-451584a220b1" />
 
 ## BOM
+You can see the BOM in Blinky Board-bom.csv files
 
+## Additional Thingy
+Thankyou for HackClub and  KiCad for making this project possible
