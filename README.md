@@ -12,14 +12,15 @@ Back
 <img width="433" height="480" alt="Screenshot 2026-03-18 at 15 12 44" src="https://github.com/user-attachments/assets/523d28ff-a413-4b5f-92d5-ac8d3835a480" />
 
 ## Features
-NE555P (555 TImer)
-CD4017 (Integrated Circuit)
-10 LEDs
-2 Capacitor
-2 Resistor
-1 Variable Resistor
-1 Slide witch
-1 Battery Socket
+- NE555P (555 Timer)
+- CD4017 (Integrated Circuit)
+- 10 LEDs
+- 2 Capacitor
+- 2 Resistor
+- 1 Variable Resistor
+- 1 Slide witch
+- 1 Battery Socket
+- 1 Battery
 
 ## PCB
 My PCB is made in KiCad These are the footprints I used
