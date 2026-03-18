@@ -23,11 +23,11 @@ CD4017 (Integrated Circuit)
 
 ## PCB
 My PCB is made in KiCad These are the footprints I used
-- Battery: BatteryHolder_Keystone_3000_1x12mm
+- Battery: Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles
 - Capacitor_THT:CP_Radial D5.0mm_P2.00mm
 - LED_THT:LED_D3.0mm
 - Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-- SW SPST: Button Switch THT:SW DIP SPSTx01 Slide 9.78x4.72mm W7.62mm P2.54mm
+- SW SPST: Button_Switch_THT_SPST:SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
 - TestPoint: Connector PinSocket 2.54mm:PinSocket 1x01 P2.54mm Vertical
 - NE555P: Package_DIP: DIP-8_W7.62mm
 - 4017: footprints: N16
