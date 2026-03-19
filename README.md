@@ -5,11 +5,12 @@ Hii! This is a cat shaped LED chaser. I wanted to make it as a keychain to be gi
 ## 3D View
 Front
 
-<img width="620" height="515" alt="Screenshot 2026-03-18 at 15 11 54" src="https://github.com/user-attachments/assets/4740899b-ad16-43a3-a8d9-68e3d3af2cde" />
+<img width="521" height="482" alt="Screenshot 2026-03-19 at 08 47 50" src="https://github.com/user-attachments/assets/c2fd6670-ebfd-461a-b707-247d4b259d90" />
 
 Back
 
-<img width="433" height="480" alt="Screenshot 2026-03-18 at 15 12 44" src="https://github.com/user-attachments/assets/523d28ff-a413-4b5f-92d5-ac8d3835a480" />
+<img width="594" height="522" alt="Screenshot 2026-03-19 at 08 48 20" src="https://github.com/user-attachments/assets/b2275446-74d6-4322-946e-3dcee44e90db" />
+
 
 ## Features
 - NE555P (555 Timer)
@@ -28,6 +29,7 @@ My PCB is made in KiCad These are the footprints I used
 - Capacitor_THT:CP_Radial D5.0mm_P2.00mm
 - LED_THT:LED_D3.0mm
 - Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+- Variable Resistor: Potentiometer_THT: Potentiometer_Vishay_T93YA_Vertical
 - SW SPST: Button_Switch_THT_SPST:SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
 - TestPoint: Connector PinSocket 2.54mm:PinSocket 1x01 P2.54mm Vertical
 - NE555P: Package_DIP: DIP-8_W7.62mm
