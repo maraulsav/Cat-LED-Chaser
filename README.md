@@ -1,5 +1,9 @@
 # Cat-LED-Chaser
 Hii! This is a cat shaped LED chaser. I wanted to make it as a keychain to be gifted to someone special for me during my highschool graduation later..
+This is the final form of my cat LED casher
+<img width="236" height="259" alt="Screenshot 2026-05-22 at 09 22 29" src="https://github.com/user-attachments/assets/5d5842c9-a096-47d2-b291-8bda4a6f39fb" />
+
+And here's the youtube video of my journey making this cat LED casher: https://www.youtube.com/watch?v=RgV0-7eemWM
 
 
 ## 3D View
